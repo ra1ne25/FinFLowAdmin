@@ -1,0 +1,9 @@
+/* styles.css */
+.sidebar-custom {
+  background-color: #000000;
+  color: #000000;
+}
+
+.sidebar-custom .pro-sidebar-inner {
+  background-color: #000000;
+}
